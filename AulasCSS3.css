@@ -1,0 +1,68 @@
+body {
+    background-color: rgb(29, 106, 151);
+    background-image: url("illya.jpg");
+}
+
+h4 {
+    font-size: 18px;
+}
+
+.headerDef {
+    color:red;
+    font-size: 15px;
+}
+
+#title {
+    color: darkblue;
+    padding: 3px;
+    padding-right: 1px;
+    border-radius: 30%;
+    border-top: 8px rgb(0, 255, 128) dashed;
+    border-left: 8px rgb(18, 158, 88) solid;
+    border-right: 8px rgb(18, 158, 88) solid;
+    border-bottom: 8px rgb(18, 158, 88) solid;
+/*    background-color: rgb(76, 19, 141); */
+}
+
+.post {
+    padding: 3px 3px 3px 3px;
+    border-top: 9px rgb(223, 0, 0) dotted;
+    border-left: 9px brown dashed;
+    border-right: 9px brown dashed;
+    border-bottom: 9px brown solid;
+    margin: 15px;
+    width: 500px;
+}
+
+
+.post_title {
+    font-style: italic;
+    font-size: medium;
+    color: rgb(9, 185, 68);
+    margin-top: 3px;
+}
+
+.list_class {
+    font-size: 18px;
+    font-style: italic;
+    text-decoration: overline underline;
+    font-weight: bold;
+    color: rgb(126, 25, 84);
+/*    background-color: aqua;*/
+    background-image: url("A\ fucking\ leaf.gif");
+    background-size: contain;
+    /* list-style-image: url("This\ is\ bait.jpg"); */
+    list-style-type: circle;
+    
+}
+
+.quartoP {
+    margin-bottom: 0%;
+}
+
+.lorem_ipsum{
+    text-decoration: underline;
+    text-transform: capitalize;
+    font-weight: bold;
+    font-style: italic;
+}
